@@ -5,3 +5,5 @@ everything here is copied from [https://carjorvaz.com/](https://carjorvaz.com) a
 all credit goes to him - permission to use and modify this was verbally obtained from him (the copyright holder)
 
 you should know that only the generated, resulting code (the only statically served at the original website) was changed (after being downloaded via, not curl, but Ctrl+S in the browser) - the original hugo input content files were not used at all
+
+read the diff [here](https://github.com/RafDevX/cjv-copy/compare/original-codebase..master)
